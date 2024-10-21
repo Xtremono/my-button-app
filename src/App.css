@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+.my-button {
+  background-color: #1e90ff; 
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background-color 0.3s, transform 0.3s;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-top: 10px;
+}
+
+.my-button:hover {
+  background-color: #4682b4;
+  transform: scale(1.05);
+}
+
+.my-button:active {
+  background-color: #4169e1;
+  transform: scale(0.95);
+}
+
+.my-button-green {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background-color 0.3s, transform 0.3s;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-top: 10px;
+}
+
+.my-button-green:hover {
+  background-color: greenyellow;
+  transform: scale(1.05);
+}
+
+.my-button-green:active {
+  background-color: #4169e1;
+  transform: scale(0.95);
+}
