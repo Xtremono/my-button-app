@@ -3,7 +3,7 @@
 }
 
 .my-button {
-  background-color: #1e90ff; 
+  background-color: #1e90ff;
   color: white;
   border: none;
   padding: 12px 24px;
@@ -46,4 +46,9 @@
 .my-button-green:active {
   background-color: #4169e1;
   transform: scale(0.95);
+}
+
+.my-image {
+  width: 500px;
+  height: auto;
 }
